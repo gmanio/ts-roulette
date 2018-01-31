@@ -1,0 +1,20 @@
+{
+  "name": "ts-roulette",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": ""
+  },
+  "author": "GmanPark",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.7.2",
+    "parcel-bundler": "^1.5.1",
+    "typescript": "^2.6.2"
+  },
+  "devDependencies": {
+    "font-awesome": "^4.7.0"
+  }
+}
